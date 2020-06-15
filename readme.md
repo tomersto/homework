@@ -7,8 +7,8 @@
 - push: push the relevant code to the service (github - upload existing repo ) 
 - add: staging the files before commit ( another step committing)
 - status: show tracked and untracked files. 
-- branch
-- checkout
+- branch - show the current branch
+- checkout - move to the relevant branch
 - log: show git repo history 
 - remote: URL, the repository url for upload.
 - SHA: number of the commit
