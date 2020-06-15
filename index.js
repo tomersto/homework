@@ -1,1 +1,3 @@
-console.log("working...")
+(function (){
+    console.log("this function works")
+})()
